@@ -128,15 +128,11 @@ AI-driven personal finance assistant.
 <br/>
 
 ## 📚 Current Learning Journey
-
-| Skill | Progress |
-|---|---|
-| AI Engineering | ![85%](https://progress-bar.dev/85/?color=36BCF7) |
-| Backend Development | ![80%](https://progress-bar.dev/80/?color=36BCF7) |
-| System Design | ![65%](https://progress-bar.dev/65/?color=36BCF7) |
-| Cloud & DevOps | ![55%](https://progress-bar.dev/55/?color=36BCF7) |
-| Competitive Coding | ![75%](https://progress-bar.dev/75/?color=36BCF7) |
-
+AI Engineering | ![](https://img.shields.io/badge/85%25-36BCF7?style=flat-square) |
+| Backend Development | ![](https://img.shields.io/badge/80%25-36BCF7?style=flat-square) |
+| System Design | ![](https://img.shields.io/badge/65%25-36BCF7?style=flat-square) |
+| Cloud & DevOps | ![](https://img.shields.io/badge/55%25-36BCF7?style=flat-square) |
+| Competitive Coding | ![](https://img.shields.io/badge/75%25-36BCF7?style=flat-square) |
 <br/>
 
 <div align="center">
