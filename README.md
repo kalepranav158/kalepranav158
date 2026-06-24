@@ -29,11 +29,17 @@ currently_learning:
   - Advanced RAG Systems
   - Cloud Deployment & DevOps
 hobbies:
-  - 🎵 Flute Player
+  - 🎵 Hindustani Classical Flute Player
   - 🏋️ Fitness Enthusiast
-  - 🧳✈️ Traevelling 
+  - 🧳 Solo Traveler
 goal: "Build impactful AI products and become a top Software Engineer"
 ```
+
+<div align="center">
+
+&nbsp;🎵 Flute&nbsp; &nbsp;|&nbsp; &nbsp;🏋️ Fitness&nbsp; &nbsp;|&nbsp; &nbsp;🧳 Solo Travel&nbsp;
+
+</div>
 
 <br/>
 
@@ -127,10 +133,39 @@ AI-driven personal finance assistant.
 
 <br/>
 
-| Skill | Progress |
-|---|---|
-| 🤖 AI Engineering | ![85%](https://img.shields.io/badge/85%25-36BCF7?style=for-the-badge) |
-| ⚙️ Backend Development | ![80%](https://img.shields.io/badge/80%25-36BCF7?style=for-the-badge) |
+## 📚 Current Learning Journey
+
+<details>
+<summary>🤖 AI Engineering — 85%</summary>
+<br>
+<img src="https://img.shields.io/badge/-85%25-36BCF7?style=for-the-badge">
+</details>
+
+<details>
+<summary>⚙️ Backend Development — 80%</summary>
+<br>
+<img src="https://img.shields.io/badge/-80%25-36BCF7?style=for-the-badge">
+</details>
+
+<details>
+<summary>🧩 System Design — 65%</summary>
+<br>
+<img src="https://img.shields.io/badge/-65%25-36BCF7?style=for-the-badge">
+</details>
+
+<details>
+<summary>☁️ Cloud & DevOps — 55%</summary>
+<br>
+<img src="https://img.shields.io/badge/-55%25-36BCF7?style=for-the-badge">
+</details>
+
+<details>
+<summary>🧠 Competitive Coding — 75%</summary>
+<br>
+<img src="https://img.shields.io/badge/-75%25-36BCF7?style=for-the-badge">
+</details>
+
+<br/>
 
 <div align="center">
 
