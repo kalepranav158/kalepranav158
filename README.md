@@ -92,7 +92,7 @@
 
 🔹 Spend forecasting pipeline
 
-🔹 FastAPI + MongoDB + SQLite
+🔹 FastAPI +Django + SQLite
 
 ---
 
@@ -113,12 +113,7 @@
 
 🏅 Secretary, ACM Student Chapter
 
-🏅 200+ Problems Solved on LeetCode
-
-🏅 Runner-Up, Inter-College Debate Competition
-
-🏅 Built Multiple End-to-End AI Systems
-
+🏅 300+ Problems Solved on LeetCode
 ---
 
 ## 📚 Current Learning Journey
