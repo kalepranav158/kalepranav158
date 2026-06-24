@@ -29,8 +29,9 @@ currently_learning:
   - Advanced RAG Systems
   - Cloud Deployment & DevOps
 hobbies:
-  - 🎵 Hindustani Classical Flute Player
+  - 🎵 Flute Player
   - 🏋️ Fitness Enthusiast
+  - 🧳✈️ Traevelling 
 goal: "Build impactful AI products and become a top Software Engineer"
 ```
 
